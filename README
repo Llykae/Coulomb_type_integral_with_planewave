@@ -1,0 +1,47 @@
+[OK] harmonics.py (up to l <= 4)
+[OK] S_lm symbolic formulas
+[OK] S_lm -> Cartesian monomial terms
+[OK] numerical validation against SciPy
+--------------------------------------------
+[OK] plane_wave_expansion.py
+[OK] symbolic monomial-level terms
+[OK] numerical Cartesian expansion
+[OK] convergence improves with lmax
+--------------------------------------------
+[OK] gaussian.py
+[OK] PrimitiveGaussian object
+[OK] Cartesian Gaussian normalization
+[OK] grid evaluation
+[OK] numerical norm check
+---------------------------------------------
+[OK] two-electron numerical prototype
+[OK] direct plane wave integral
+[OK] expanded plane wave integral
+[OK] convergence with lmax
+[OK] regularized Coulomb grid validation
+[OK] centered s/s/s symmetric test
+[OK] odd-parity p/s test
+[OK] imaginary integral behavior
+[OK] odd-l convergence behavior
+---------------------------------------------
+[OK] radial_integrals.py
+[OK] Gaussian-Bessel 1D quadrature
+[OK] analytic j0 check
+---------------------------------------------
+[OK] radial_coulomb_2d.py
+[OK] split at s=r
+[OK] r_<^L / r_>^(L+1) radial kernel
+[OK] 2D quadrature agrees with crude grid check
+---------------------------------------------
+[OK] angular_pipeline.py
+[OK] atom_centered_terms.py
+[OK] radial_coulomb_2d.py
+[OK] atom_centered_evaluator.py
+[OK] first full angular/radial evaluation
+---------------------------------------------
+[OK] primitive Gaussian normalization
+[OK] atom-centered angular decomposition
+[OK] allowed angular couplings
+[OK] radial Coulomb 2D integral
+[OK] primitive integral evaluation
+[OK] normalized full wrapper

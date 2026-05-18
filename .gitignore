@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.ipynb_checkpoints/
+.pytest_cache/
+
+archive/
+*.log
+
+# Large / generated QP data files
+*.gz
+
+# Local environment
+.env
+.venv/
+venv/
