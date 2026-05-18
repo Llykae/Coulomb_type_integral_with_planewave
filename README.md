@@ -522,8 +522,7 @@ $$
 The density is p-like:
 
 $$
-\rho_s(\mathbf{s})
-=
+\rho_s(\mathbf{s}) =
 x_s e^{-(\alpha_{s1}+\alpha_{s2})s^2}.
 $$
 
