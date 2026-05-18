@@ -114,8 +114,7 @@ $$
 Cartesian monomials are decomposed into solid-harmonic channels:
 
 $$
-x^a y^b z^c =
-\sum_i c_i r^{2q_i} S_{l_i m_i}(x,y,z),
+x^a y^b z^c = \sum_i c_i r^{2q_i} S_{l_i m_i}(x,y,z),
 $$
 
 where:
@@ -154,10 +153,7 @@ $$
 For two Cartesian Gaussian primitives:
 
 $$
-x^{a_1}y^{b_1}z^{c_1}e^{-\alpha_1s^2}
-\;
-x^{a_2}y^{b_2}z^{c_2}e^{-\alpha_2s^2}
-=
+x^{a_1}y^{b_1}z^{c_1}e^{-\alpha_1s^2} x^{a_2}y^{b_2}z^{c_2}e^{-\alpha_2s^2} =
 x^{a_1+a_2}
 y^{b_1+b_2}
 z^{c_1+c_2}
