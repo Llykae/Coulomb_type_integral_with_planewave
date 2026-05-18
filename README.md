@@ -114,8 +114,7 @@ $$
 Cartesian monomials are decomposed into solid-harmonic channels:
 
 $$
-x^a y^b z^c
-=
+x^a y^b z^c =
 \sum_i c_i r^{2q_i} S_{l_i m_i}(x,y,z),
 $$
 
