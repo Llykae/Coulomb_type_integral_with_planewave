@@ -445,7 +445,7 @@ Target integral:
 $$
 I(k)=
 \int_{\mathbb{R}^3}d^3\mathbf{r}
-\int_{\mathbb{R}^3}d^3\mathbf{s}\;
+\int_{\mathbb{R}^3}d^3\mathbf{s}
 e^{i\mathbf{k}\cdot\mathbf{r}}
 e^{-\alpha_r r^2}
 \frac{1}{|\mathbf{r}-\mathbf{s}|}
@@ -474,7 +474,7 @@ For `k > 0`:
 
 $$
 I(k)=
-\frac{2\pi^3}{\sqrt a\,b^{3/2}k}
+\frac{2\pi^3}{\sqrt a b^{3/2}k}
 e^{-k^2/(4a)}
 \mathrm{erfi}
 \left[
@@ -511,19 +511,19 @@ Target integral:
 $$
 I(k)=
 \int_{\mathbb{R}^3}d^3\mathbf{r}
-\int_{\mathbb{R}^3}d^3\mathbf{s}\;
+\int_{\mathbb{R}^3}d^3\mathbf{s}
 e^{ikx_r}
-x_r e^{-\alpha_r r^2}
+r e^{-\alpha_r r^2}
 \frac{1}{|\mathbf{r}-\mathbf{s}|}
 e^{-\alpha_{s1}s^2}
-x_s e^{-\alpha_{s2}s^2}.
+s e^{-\alpha_{s2}s^2}.
 $$
 
 The density is p-like:
 
 $$
 \rho_s(\mathbf{s}) =
-x_s e^{-(\alpha_{s1}+\alpha_{s2})s^2}.
+s e^{-(\alpha_{s1}+\alpha_{s2})s^2}.
 $$
 
 The nonzero full plane-wave channels are:
