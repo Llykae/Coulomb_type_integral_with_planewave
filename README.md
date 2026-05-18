@@ -7,11 +7,11 @@ The central quantity is:
 $$
 I(\mathbf{k}) =
 \int_{\mathbb{R}^3} d^3\mathbf{r}
-\int_{\mathbb{R}^3} d^3\mathbf{s}\;
-e^{i\mathbf{k}\cdot\mathbf{r}}\,
-\phi_r(\mathbf{r})\,
-\frac{1}{|\mathbf{r}-\mathbf{s}|}\,
-\phi_{s1}(\mathbf{s})\,
+\int_{\mathbb{R}^3} d^3\mathbf{s}
+e^{i\mathbf{k}\cdot\mathbf{r}}
+\phi_r(\mathbf{r})
+\frac{1}{|\mathbf{r}-\mathbf{s}|}
+\phi_{s1}(\mathbf{s})
 \phi_{s2}(\mathbf{s}).
 $$
 
