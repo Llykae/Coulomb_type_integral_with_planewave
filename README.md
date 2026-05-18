@@ -476,7 +476,7 @@ $$
 I(k)=
 \frac{2\pi^3}{\sqrt a\,b^{3/2}k}
 e^{-k^2/(4a)}
-\operatorname{erfi}
+\mathrm{erfi}
 \left[
 \frac{k}{2}
 \sqrt{\frac{b}{a(a+b)}}
